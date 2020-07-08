@@ -1,5 +1,5 @@
 
-Pillow == 6.2.1
+Pillow>=6.2.2
 googletrans == 2.4.0
 langdetect == 1.0.8
 opencv_contrib_python == 4.2.0.34
